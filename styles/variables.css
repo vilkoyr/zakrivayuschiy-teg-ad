@@ -1,17 +1,13 @@
 :root {
-    /* Шрифты */
     --font-primary: "Inter-Variable", sans-serif;
     --font-secondary: "PressStart2P", fantasy;
     
-    /* Веса шрифтов */
     --font-weight-normal: 400;
     --font-weight-bold: 700;
     
-    /* Размеры шрифтов */
     --font-size-base: 18px;
     --font-size-small: 14px;
     
-    /* Цвета */
     --color-background: #FFFFFF;
     --color-foreground: #000000;
     --color-accent: #000000;
@@ -20,18 +16,14 @@
     --color-heart-sparks: red;
     --color-stroke: black;
     
-    /* Эффекты */
     --shadow-stroke: 1px #000;
     --shadow-text: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
     
-    /* Отступы и размеры */
     --spacing-card-gap: 50px;
     
-    /* Анимации */
     --animation-duration: 0.3s;
     --animation-fill-color: red;
     
-    /* Фоны */
     --background-pattern: 
       repeating-linear-gradient(to right, #d3d3d3, #d3d3d3 2px, transparent 2px, transparent 4px),
       repeating-linear-gradient(to bottom, #d3d3d3, #d3d3d3 2px, transparent 2px, transparent 4px),
