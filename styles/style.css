@@ -278,10 +278,6 @@ dialog::backdrop {
   inline-size: 100%;
 }
 
-.ok-btn {
-  padding: 11px 0;
-}
-
 @media (width <= 375px) {
   .site-header {
     margin-top: 100px;
