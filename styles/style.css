@@ -101,7 +101,6 @@ section {
   .card-image-label {
     text-shadow: none;
     -webkit-text-stroke: 1px var(--color-stroke);
-    text-stroke: 1px var(--color-stroke);
   }
 }
 
